@@ -1,0 +1,2 @@
+# OrderTracker
+I run a restaurant called “Tina’s Palace.” At my restaurant, I take orders on a first come first serve basis. However, I track the orders at the end of the day on a last in first out basis. For example, if I have 10 customers whose orders are. The console will introduce the user and prompt the user to enter X number of orders. It will then print out the list of orders in ascending and descending order i.e. using a stack and queue.   If the customer enters “QUIT” the outro will be printed and both lists will be printed to the console.
